@@ -1,4 +1,4 @@
-﻿# crawler-collection
+﻿# spider-archive
 
 个人爬虫作品归档仓库，收录过去不同阶段编写的新闻抓取、微博采集、图片下载等练习项目。
 
@@ -48,7 +48,7 @@
 ## 目录结构
 
 ```text
-crawler-collection/
+spider-archive/
 |-- projects/
 |   |-- java/
 |   |   |-- search-boot/
@@ -65,3 +65,4 @@ crawler-collection/
 - 这是一个代码归档仓库，不是统一框架下的单体应用
 - 部分目标站点、接口和代理配置已经过时，代码不保证现在仍可直接运行
 - 如果后续还想继续整理，可以在这个仓库基础上继续补充更多历史项目
+
