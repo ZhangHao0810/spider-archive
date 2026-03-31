@@ -1,0 +1,36 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.settings/
+*.iml
+.classpath
+.project
+
+# Java / Maven
+target/
+out/
+bin/
+*.war
+*.jar
+*.class
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Logs / temp
+*.log
+tmp/
+temp/
+
+# Local crawler output
+downloads/
+data/
+output/
